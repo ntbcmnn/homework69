@@ -1,5 +1,5 @@
 import './App.css';
-import SearchForm from './Components/SearchForm/SearchForm.tsx';
+import SearchForm from './Containers/SearchForm/SearchForm.tsx';
 import Toolbar from './Components/Toolbar/Toolbar.tsx';
 import { Route, Routes } from 'react-router-dom';
 import Show from './Containers/Show/Show.tsx';
